@@ -1,4 +1,46 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Niko Shivkumar
+* Created on: may 30th 2024
 * This file contains the CSS for index.html
 */
+
+html {
+  background-color: #789778;
+}
+
+h1 {
+  background-color: lightgreen;
+  padding: 25px;
+  text-align: center;
+  border: 5px solid black;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+
+h3 {
+  padding: 25px;
+  text-align: center;
+  border: 1px solid black;
+  margin-left: 600px;
+  margin-right: 600px;
+  font: 12pt Arial;
+  background-color: #6ad26a;
+}
+
+p {
+  text-align: center;
+  background-color: #aa6e8c;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 2px;margin-left: 750px;
+  margin-right: 750px;
+}
+
+#user-info {
+  text-align: center;
+  background-color: #fd72b8;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 2px;
+  margin-left: 600px;
+  margin-right: 600px;
+}
