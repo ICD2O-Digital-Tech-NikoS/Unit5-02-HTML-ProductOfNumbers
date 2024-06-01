@@ -4,11 +4,11 @@
 */
 
 html {
-  background-color: #789778;
+  background-color: #788197;
 }
 
 h1 {
-  background-color: lightgreen;
+  background-color: #91a8ee;
   padding: 25px;
   text-align: center;
   border: 5px solid black;
@@ -23,12 +23,12 @@ h3 {
   margin-left: 600px;
   margin-right: 600px;
   font: 12pt Arial;
-  background-color: #6ad26a;
+  background-color: #6a9cd2;
 }
 
 p {
   text-align: center;
-  background-color: #aa6e8c;
+  background-color: #a9aa6e;
   border: 2px solid black;
   padding: 10px;
   margin: 2px;margin-left: 750px;
@@ -37,7 +37,7 @@ p {
 
 #user-info {
   text-align: center;
-  background-color: #fd72b8;
+  background-color: #968f6e;
   border: 2px solid black;
   padding: 10px;
   margin: 2px;
