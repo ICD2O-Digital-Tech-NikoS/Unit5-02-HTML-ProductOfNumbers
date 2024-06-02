@@ -4,14 +4,14 @@
 
 "use strict"
 
-// function for user display
+// function for product of numbers
 function productOfNumbers() {
 
-  // get user input for min
+  // get user input 
   let userNumberTwo = Number(document.getElementById("userNumberTwo").value);
-  // get user input for max
+  // get user input 
   let userNumberOne = Number(document.getElementById("userNumberOne").value);
-  // empty string for displaying numbers
+  // sets sum of numbers to zero
   let sum = 0;
 
   // if both numbers are greater than zero 
